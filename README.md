@@ -1,16 +1,40 @@
-## Hi there 👋
+# ✨ Hola, soy Angel ✨
 
-<!--
-**angeldzz/angeldzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la programación, siempre en constante aprendizaje y buscando nuevas formas de mejorar mis habilidades. Me considero una persona trabajadora, comprometida y con una gran capacidad para colaborar en equipo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💪 Sobre mí
+- Me encanta resolver problemas y enfrentar nuevos retos.
+- Trabajo bien en equipo y disfruto colaborar en proyectos.
+- Siempre estoy aprendiendo nuevas tecnologías y herramientas.
+- Apasionado por la mejora continua y la optimización del código.
+
+---
+
+## 🛠️ Tecnologías que domino
+### **Frontend**
+- ✅ HTML, CSS, JavaScript
+- ✅ Bootstrap
+
+### **Backend**
+- ✅ Python, Java
+- ✅ Django
+- ✅ jQuery, AJAX
+
+---
+
+## 📚 En constante aprendizaje
+Siempre estoy explorando nuevas tecnologías y herramientas para mejorar mis habilidades como desarrollador. Me interesa especialmente el desarrollo web eficiente y escalable.
+
+---
+
+## 👤 Conéctate conmigo
+- 🔗 LinkedIn: [Ángel Pinto Díaz](https://www.linkedin.com/in/%C3%A1ngel-pinto-d%C3%ADaz-986678306/)
+- 📧 Correo: <correo>
+- 📞 Teléfono: <teléfono>
+
+Si quieres colaborar en un proyecto o simplemente hablar sobre desarrollo, no dudes en contactarme.
+
+¡Gracias por visitar mi perfil! 🚀
+
