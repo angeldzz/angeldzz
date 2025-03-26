@@ -31,8 +31,8 @@ Siempre estoy explorando nuevas tecnologías y herramientas para mejorar mis hab
 
 ## 👤 Conéctate conmigo
 - 🔗 LinkedIn: [Ángel Pinto Díaz](https://www.linkedin.com/in/%C3%A1ngel-pinto-d%C3%ADaz-986678306/)
-- 📧 Correo: <correo>
-- 📞 Teléfono: <teléfono>
+- 📧 Correo: pintodiazangel@gmail.com
+- 📞 Teléfono: 640621835
 
 Si quieres colaborar en un proyecto o simplemente hablar sobre desarrollo, no dudes en contactarme.
 
