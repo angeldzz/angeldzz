@@ -156,7 +156,7 @@ class Motivacion:
 
 <div align="center">
 
-### 🎉 **"Si lo puedes imaginar, lo puedes crear, tu eres tu unico obstaculo."**
+### 🎉 **"Si lo puedes imaginar, lo puedes crear. Tú eres tu único obstaculo."**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
