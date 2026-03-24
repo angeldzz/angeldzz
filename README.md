@@ -7,8 +7,9 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1ngel-pinto-d%C3%ADaz-986678306/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pintodiazangel@gmail.com)
+<a href="https://www.linkedin.com/in/%C3%A1ngel-pinto-d%C3%ADaz-986678306/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+<a href="mailto:pintodiazangel@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
+![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=00D9FF&style=for-the-badge)
 
 </div>
 
@@ -54,17 +55,6 @@ const angel = {
 ### **Herramientas & Otros** 🛠️
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-## 📊 **Estadísticas de GitHub**
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/angeldzz?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/angeldzz)
-[![GitHub stars](https://img.shields.io/github/stars/angeldzz?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/angeldzz)
 
 </div>
 
