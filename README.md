@@ -36,30 +36,6 @@ const angel = {
 
 ---
 
-## 🛠️ **Stack Tecnológico**
-
-<div align="center">
-
-### **Frontend Magic** ✨
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,bootstrap,jquery" />
-
-### **Backend Power** 🔥
-
-<img src="https://skillicons.dev/icons?i=python,django,java,cs,nodejs,dotnet" />
-
-### **Database & Cloud** ☁️
-
-<img src="https://skillicons.dev/icons?i=mysql,aws,azure" />
-
-### **Herramientas & Otros** 🛠️
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
 ## 🎯 **Mi Filosofía de Desarrollo**
 
 <div align="center">
