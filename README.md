@@ -2,9 +2,6 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,bootstrap" /><br/>
-<img src="https://skillicons.dev/icons?i=python,django,java,cs,nodejs,dotnet,git,vscode" />
-
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/%C3%A1ngel-pinto-d%C3%ADaz-986678306/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
